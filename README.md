@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [(주)실비아헬스(silvia-health)](https://pingpong-market.shop)
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **Javascript, Typescript, React, React Native, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://distinct-scribe-201.notion.site/b298f9a7665d4183be11ebea1d1c57de](https://distinct-scribe-201.notion.site/b298f9a7665d4183be11ebea1d1c57de)
 
