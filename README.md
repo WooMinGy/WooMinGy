@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, Typescript, React, React Native, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://distinct-scribe-201.notion.site/b298f9a7665d4183be11ebea1d1c57de](https://distinct-scribe-201.notion.site/b298f9a7665d4183be11ebea1d1c57de)
+- 👨‍💻 All of my projects are available at [https://distinct-scribe-201.notion.site/ed9b71a2f168446f98a78ce4b3bcea70](https://distinct-scribe-201.notion.site/ed9b71a2f168446f98a78ce4b3bcea70)
 
 - 📝 I regularly write articles on [https://mg-m2m.tistory.com/](https://mg-m2m.tistory.com/)
 
