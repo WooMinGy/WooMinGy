@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mingy Woo</h1>
 <h3 align="center">A passionate Frontend developer who want be a best</h3>
 
-- 🔭 I’m currently working on [(주)실비아헬스(silvia-health)](https://pingpong-market.shop)
+- 🔭 I’m currently working on -----
 
 - 🌱 I’m currently learning **Javascript, Typescript, React, React Native, Flutter**
 
